@@ -1,0 +1,2 @@
+/nix/store/dq0xwmsk1g0i2ayg6pb7y87na2knzylh-gcc-wrapper-11.3.0/bin/ar qc libsort_functions_libraries.a CMakeFiles/sort_functions_libraries.dir/insert_sort.cpp.o CMakeFiles/sort_functions_libraries.dir/merge_sort.cpp.o
+/nix/store/dq0xwmsk1g0i2ayg6pb7y87na2knzylh-gcc-wrapper-11.3.0/bin/ranlib libsort_functions_libraries.a

@@ -1,0 +1,2 @@
+/nix/store/dq0xwmsk1g0i2ayg6pb7y87na2knzylh-gcc-wrapper-11.3.0/bin/ar qc libdisplay_libraries.a CMakeFiles/display_libraries.dir/containers.cpp.o
+/nix/store/dq0xwmsk1g0i2ayg6pb7y87na2knzylh-gcc-wrapper-11.3.0/bin/ranlib libdisplay_libraries.a

@@ -1,0 +1,9 @@
+/home/runner/Skillbox/build/CMakeFiles/sort.dir
+/home/runner/Skillbox/build/CMakeFiles/edit_cache.dir
+/home/runner/Skillbox/build/CMakeFiles/rebuild_cache.dir
+/home/runner/Skillbox/build/source/display/CMakeFiles/display_libraries.dir
+/home/runner/Skillbox/build/source/display/CMakeFiles/edit_cache.dir
+/home/runner/Skillbox/build/source/display/CMakeFiles/rebuild_cache.dir
+/home/runner/Skillbox/build/source/sort_functions/CMakeFiles/sort_functions_libraries.dir
+/home/runner/Skillbox/build/source/sort_functions/CMakeFiles/edit_cache.dir
+/home/runner/Skillbox/build/source/sort_functions/CMakeFiles/rebuild_cache.dir
