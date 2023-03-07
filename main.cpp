@@ -2,7 +2,7 @@
 #include "source/sort_functions/insert_sort.h"
 #include "source/sort_functions/merge_sort.h"
 #include "source/display/containers.h"
-#include "source/input/standart_types.h"
+#include "source/input/standart_type.h"
 
 
 
